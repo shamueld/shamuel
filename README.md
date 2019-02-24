@@ -1,4 +1,2 @@
-# shamuel
-My Repository
-
-This is my first edit on github!! yayyyy!!!
+# aws-codedeploy-linux
+This is a simple website that can be deployed using AWS Code Services
